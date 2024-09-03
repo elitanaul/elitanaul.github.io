@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elitanaul.github.io/sitemap.html.gz
+Sitemap: https://elitanaul.github.io/app/sitemap.html.gz
+Sitemap: https://elitanaul.github.io/assets/sitemap.html.gz
+Sitemap: https://elitanaul.github.io/css/sitemap.html.gz
+Sitemap: https://elitanaul.github.io/includes/sitemap.html.gz
+Sitemap: https://elitanaul.github.io/item/sitemap.html.gz
+Sitemap: https://elitanaul.github.io/src/sitemap.html.gz
